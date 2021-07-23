@@ -9,3 +9,21 @@ Foram divididas duas frentes para abordar o trabalho, uma de busca ativa pelos c
 O relatório final pode ser encontrado [clicando aqui.](ainda não tem, eu acho)
 
 E o protótipo da plataforma está disponível [clicando aqui.]
+
+
+Os documentos disponíveis são:
+
+1. referencial teórico sobre governo aberto, Hacia el gobierno abierto: Una caja de herramientas / Preparado por el 
+Departamento para la Gestión Pública Efectiva, de  César Nicandro Cruz-Rubio
+
+2. um arquivo excel com 3 pastas.
+
+2.1 na primeira estão organizadas informações de todas as linhas de ônibus que passam na região da estação USP Leste da CPTM;
+2.2 na segunda estão organizadas informações das empresas que operam essas linhas;
+2.3 na terceira estão informações recebidas pelo grupo via LAI a respeito do comportamento dos usuários dessa estação, de acordo com a Pesquisa de Origem e Destino.
+
+3. um arquivo de referência sobre plaraformas de mapeamento e georreferenciamento 
+
+4. arquivo readme, onde essas informações estão organizadas
+
+5. pdf do relatório final para fácil acesso
