@@ -8,7 +8,7 @@ Foram divididas duas frentes para abordar o trabalho, uma de busca ativa pelos c
 
 O relatório final pode ser encontrado [clicando aqui.](ainda não tem, eu acho)
 
-E o protótipo da plataforma está disponível [clicando aqui.]
+E o protótipo da plataforma está disponível [clicando aqui.](https://docs.google.com/document/d/1xc8jsCxdAGF_yrxlvYcIomFRPEJfkSCK9I8TcnKX-E0/edit)
 
 
 Os documentos disponíveis são:
