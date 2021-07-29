@@ -19,7 +19,9 @@ Departamento para la Gestión Pública Efectiva, de  César Nicandro Cruz-Rubio
 2. um arquivo excel com 3 pastas.
 
 2.1 na primeira estão organizadas informações de todas as linhas de ônibus que passam na região da estação USP Leste da CPTM;
+
 2.2 na segunda estão organizadas informações das empresas que operam essas linhas;
+
 2.3 na terceira estão informações recebidas pelo grupo via LAI a respeito do comportamento dos usuários dessa estação, de acordo com a Pesquisa de Origem e Destino.
 
 3. um arquivo de referência sobre plaraformas de mapeamento e georreferenciamento 
@@ -27,3 +29,7 @@ Departamento para la Gestión Pública Efectiva, de  César Nicandro Cruz-Rubio
 4. arquivo readme, onde essas informações estão organizadas
 
 5. pdf do relatório final para fácil acesso
+
+6. duas páginas de protótipo da plataforma, com e sem a moldura de um smartphone
+
+7. duas logomarcas do geo-sic, com e sem o mapa no fundo, para diferentes situações
