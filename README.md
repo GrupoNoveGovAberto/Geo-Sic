@@ -18,11 +18,11 @@ Departamento para la Gestión Pública Efectiva, de  César Nicandro Cruz-Rubio
 
 2. um arquivo excel com 3 pastas.
 
-2.1 na primeira estão organizadas informações de todas as linhas de ônibus que passam na região da estação USP Leste da CPTM;
+2.1 na primeira estão organizadas informações de todas as linhas de ônibus que passam na região da EACH;
 
 2.2 na segunda estão organizadas informações das empresas que operam essas linhas;
 
-2.3 na terceira estão informações recebidas pelo grupo via LAI a respeito do comportamento dos usuários dessa estação, de acordo com a Pesquisa de Origem e Destino.
+2.3 na terceira estão informações recebidas pelo grupo via LAI a respeito do comportamento dos usuários da estação USP Leste da CPTM, de acordo com a Pesquisa de Origem e Destino.
 
 3. um arquivo de referência sobre plaraformas de mapeamento e georreferenciamento 
 
